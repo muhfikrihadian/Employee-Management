@@ -1,16 +1,12 @@
-# manajemen_karyawan
+# Employee Management
 
-A new Flutter project.
+[![Screen-Github-EM.png](https://i.postimg.cc/TYpzR9yj/Screen-Github-EM.png)](https://postimg.cc/fJQ2CYfk)
 
-## Getting Started
+Aplikasi Employee Management merupakan aplikasi manajemen karyawan yang dibangun dengan teknologi Flutter. 
+Aplikasi ini berisi simpel CRUD berbasis REST API dan bahkan didukung oleh State Management Provider 
+yang akan sangat cocok bagi anda yang sedang mempelajari Flutter.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplikasi ini merupakan modifikasi dari artikel :
+- https://daengweb.id/mengenal-widget-flutter-9-crud-data-pegawai-part-1
+- https://daengweb.id/mengenal-widget-flutter-10-crud-data-pegawai-part-2
+- https://daengweb.id/mengenal-widget-flutter-11-crud-data-pegawai-part-3
